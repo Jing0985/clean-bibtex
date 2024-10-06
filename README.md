@@ -15,4 +15,4 @@ Name: bibtexparser<br />
 Version: 2.0.0b7 (please note the version may change as time goes by)<br />
 Summary: Bibtex parser for python 3<br />
 # 4. Feedback and contribute
-Feedback and pull requests are highly appreciated and warmly welcome. Please fork the repo and make changes as you would like. For further discussion, please contact the author(([@Jing0985](https://github.com/Jing0985))
+Feedback and pull requests are highly appreciated and warmly welcome. Please fork the repo and make changes as you would like. For further discussion, please contact the author([@Jing0985](https://github.com/Jing0985))
