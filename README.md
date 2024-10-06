@@ -1,6 +1,6 @@
 # clean-bibtex
 # 1. Project
-The project is about a small research task to remove duplicated bibtex entries and add essential fields in each entry
+The project is about a small research task to remove duplicated bibtex entries and add essential fields in each entry.
 # 2. Description
 • The script has contribution from bibtexparser (https://github.com/sciunto-org/python-bibtexparser?tab=readme-ov-file).<br />
 • The script does two things: firstly, identify and remove duplicates in a bibtex file; secondly, add the essential fields in each entry depending on the citation style. 
