@@ -3,7 +3,7 @@
 The project is about a small research task to remove duplicated BibTex entries and add essential fields in each entry.
 # 2. Description
 • The main.py has contribution from bibtexparser (https://github.com/sciunto-org/python-bibtexparser?tab=readme-ov-file).<br />
-• main.py does two things: firstly, identify and remove duplicates in a BibTex file; secondly, add the essential fields in each entry depending on the citation style. 
+• main.py does two things: firstly, identify and remove duplicates in a BibTex file; secondly, add the essential fields in each entry depending on the citation requirement. 
 # 3. Installation instruction
 Please install bibtexparser using pip:
 ```
